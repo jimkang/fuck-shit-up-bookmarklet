@@ -17,14 +17,14 @@
 
   "browser_action": {
     "default_icon": {
-      "19": "onebyone_icon_19.png",
-      "38": "onebyone_icon_38.png"
+      "19": "fuck-shit-up-icon-19.png",
+      "38": "fuck-shit-up-icon-38.png"
     }
   },
 
   "icons": {
-    "16": "onebyone_icon_16.png",
-    "48": "onebyone_icon_48.png",
-    "128": "onebyone_icon_128.png"
+    "16": "fuck-shit-up-icon-16.png",
+    "48": "fuck-shit-up-icon-48.png",
+    "128": "fuck-shit-up-icon-128.png"
   }
 }

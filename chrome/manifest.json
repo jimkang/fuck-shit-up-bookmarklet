@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+
+  "name": "Fuck Shit Up",
+  "description": "Sprinkle some 'fucks' into whatever you're reading.",
+  "version": "1.0.0",
+
+  "permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+
+  "background": {
+    "scripts": ["scriptchain.js", "background.js"],
+    "persistent": false
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "19": "onebyone_icon_19.png",
+      "38": "onebyone_icon_38.png"
+    }
+  },
+
+  "icons": {
+    "16": "onebyone_icon_16.png",
+    "48": "onebyone_icon_48.png",
+    "128": "onebyone_icon_128.png"
+  }
+}

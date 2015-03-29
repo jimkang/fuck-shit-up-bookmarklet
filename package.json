@@ -1,0 +1,25 @@
+{
+  "name": "fuck-shit-up-bookmarklet",
+  "version": "1.0.0",
+  "description": "Does some cool things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/fuck-shit-up-bookmarklet.git"
+  },
+  "keywords": [],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/fuck-shit-up-bookmarklet/issues"
+  },
+  "homepage": "https://github.com/jimkang/fuck-shit-up-bookmarklet",
+  "devDependencies": {},
+  "dependencies": {
+    "browserify": "^8.1.3",
+    "uglify-js": "^2.4.17"
+  }
+}

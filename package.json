@@ -1,7 +1,7 @@
 {
   "name": "fuck-shit-up-bookmarklet",
   "version": "1.0.0",
-  "description": "Does some cool things.",
+  "description": "Sprinkles some 'fucks' into whatever you're reading.",
   "main": "index.js",
   "scripts": {
     "test": "make test"

@@ -3,7 +3,7 @@
 
   "name": "Fuck Shit Up",
   "description": "Sprinkle some 'fucks' into whatever you're reading.",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "permissions": [
     "http://*/*",
